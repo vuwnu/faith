@@ -32,5 +32,9 @@
   --font-header: 'Open Sans', sans-serif;
   --font-logo: 'MuseoModerno', cursive;
   --font-size: var(--responsive-font-size);
+}
 
+.logo div {
+  font-size: 5em;
+  margin-top:-20px;
 }
