@@ -1,3 +1,36 @@
 :root {
 
+  --y-axis-page-align: center;
+  --x-axis-page-align: center;
+  --align-text: center;
+
+  --color-accent-1: rgb(77, 166, 81);
+  --color-accent-2: lime;
+  --color-accent-3: limegreen;
+  --color-accent-4: limegreen;
+
+  --color-logo: white;
+
+  --color-main-1: #222;
+  --color-main-2: #111;
+  --color-main-3: lime;
+
+  --background-color: transparent;
+  --background-border-color: #1d1d1d;
+  --border-bg-color: #222;
+
+  --background: #111;
+
+  --scrollbar-width: 5px;
+  --scrollbar-track: #111;
+  --scrollbar-handle: grey;
+
+  --max-width: 1000px;
+
+  --font-primary: 'Open Sans', sans-serif;
+  --font-secondary: 'Open Sans', sans-serif;
+  --font-header: 'Open Sans', sans-serif;
+  --font-logo: 'MuseoModerno', cursive;
+  --font-size: var(--responsive-font-size);
+
 }
